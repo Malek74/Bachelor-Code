@@ -1,0 +1,19 @@
+{"time":"2025-05-22T00:23:41.7796519+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"d:\\BSc\\Bachelor-Code\\wandb\\run-20250522_002341-tvjfgpxx\\logs\\debug-core.log"}
+{"time":"2025-05-22T00:23:42.3492521+02:00","level":"INFO","msg":"created new stream","id":"tvjfgpxx"}
+{"time":"2025-05-22T00:23:42.3492521+02:00","level":"INFO","msg":"stream: started","id":"tvjfgpxx"}
+{"time":"2025-05-22T00:23:42.3492521+02:00","level":"INFO","msg":"handler: started","stream_id":"tvjfgpxx"}
+{"time":"2025-05-22T00:23:42.3492521+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"tvjfgpxx"}
+{"time":"2025-05-22T00:23:42.3492521+02:00","level":"INFO","msg":"sender: started","stream_id":"tvjfgpxx"}
+{"time":"2025-05-22T00:23:42.6349601+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-22T00:23:42.85711+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-22T00:24:31.4590873+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-22T00:24:31.4778021+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-22T00:24:31.627935+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-22T00:36:31.473655+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-22T00:36:31.4767005+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-22T00:36:34.5268814+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-22T00:36:34.5313944+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-22T00:36:40.4468034+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-22T00:36:40.453492+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-22T00:36:41.0215649+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-22T00:36:41.026974+02:00","level":"INFO","msg":"Resuming system monitor"}
